@@ -3,7 +3,7 @@
 
 I am a passionate developer with a strong focus on **Machine Learning, AI, and Data Analytics**. I enjoy working with **Python, JavaScript, and other modern technologies** to build impactful solutions.
 
-📍 Based in **Tharaka Nithi, Kenya**  
+📍 Based in **TharakaNithi, Kenya**  
 📧 Contact me at **babran.bruce@gmail.com**  
 🚀 Currently learning **Advanced Machine Learning & AI Development**  
 
